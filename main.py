@@ -1,5 +1,5 @@
 def main():
-    print("Hello from dsa103-githubtest!")
+    print("Hello from the dsa course")
 
 
 if __name__ == "__main__":
